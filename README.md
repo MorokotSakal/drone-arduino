@@ -2,7 +2,7 @@
 Contains code for development of drone from scratch using arduino platform
 
 ## Navigation
-HERE
+The Arduino auto-level quadcopter [HERE](http://www.brokking.net/ymfc-al_main.html)
 
 ## DIY Arduino Drone Development Steps
 - [ ] Harware procurements
@@ -12,7 +12,7 @@ HERE
   - [x] Motor + ESC
   - [ ] IMU MPU-6050
   - [ ] LED
-  - [ ] Resistor & diode
+  - [ ] three resistors (1.5kΩ & 1kΩ & 330Ω), a 1A diode (1N4001)
   - [ ] Battery
   - [ ] Battery connector
   - [ ] Battery charger
