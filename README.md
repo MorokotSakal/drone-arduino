@@ -17,13 +17,13 @@ The Arduino auto-level quadcopter [HERE](http://www.brokking.net/ymfc-al_main.ht
   - [ ] Battery connector
   - [ ] Battery charger
   - [ ] RC transmitter and receiver
+  - [ ] Breadboard (long)
+  - [ ] Some wires
 - [ ] (SW) Basic of Arduino
   - [ ] Getting started with Arduino (blink)
   - [ ] Arduino + MPU-6050
   - [ ] Arduino + RC Receiver
   - [ ] Arduino + ESC
-  - [ ] Breadboard (long)
-  - [ ] Some wires
 - [ ] PCB drawing 
 - [ ] (Assem) PCB board design & build
 - [ ] (Test) manual flight test
