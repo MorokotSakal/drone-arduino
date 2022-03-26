@@ -24,6 +24,11 @@ The Arduino auto-level quadcopter [HERE](http://www.brokking.net/ymfc-al_main.ht
   - [ ] Solder sucker
   - [ ] Soldering flux
 
+- [ ] Arduino Uno Support Board
+- [ ] Spacer
+- [ ] Double-side Tape for vibration reduction
+- [ ] Heat shrink tube
+
 - [ ] (SW) Basic of Arduino
   - [ ] Getting started with Arduino (blink)
   - [ ] Arduino + MPU-6050
