@@ -8,17 +8,22 @@ The Arduino auto-level quadcopter [HERE](http://www.brokking.net/ymfc-al_main.ht
 - [ ] Harware procurements
   - [x] Drone Frame
   - [x] Arduino Uno
-  - [ ] Arduino Uno Protoboard or PCB protoboard
+  - [x] Arduino Uno Protoboard or PCB protoboard
   - [x] Motor + ESC
-  - [ ] IMU MPU-6050
-  - [ ] LED
-  - [ ] three resistors (1.5kΩ & 1kΩ & 330Ω), a 1A diode (1N4001)
-  - [ ] Battery
-  - [ ] Battery connector
-  - [ ] Battery charger
-  - [ ] RC transmitter and receiver
-  - [ ] Breadboard (long)
-  - [ ] Some wires
+  - [x] IMU MPU-6050
+  - [x] LED
+  - [x] three resistors (1.5kΩ & 1kΩ & 330Ω), a 1A diode (1N4001)
+  - [x] Battery
+  - [x] Battery charger
+  - [x] RC transmitter and receiver
+  - [x] Breadboard (long)
+  - [x] Some wires
+  - [ ] Battery connector (+)
+- [ ] Soldering tools
+  - [ ] dry tip cleaner
+  - [ ] Solder sucker
+  - [ ] Soldering flux
+
 - [ ] (SW) Basic of Arduino
   - [ ] Getting started with Arduino (blink)
   - [ ] Arduino + MPU-6050
