@@ -23,18 +23,25 @@ The Arduino auto-level quadcopter [HERE](http://www.brokking.net/ymfc-al_main.ht
   - [ ] dry tip cleaner
   - [ ] Solder sucker
   - [ ] Soldering flux
+- [ ] Others
+  - [ ] Double-side Tape for vibration reduction
+  - [ ] Heat shrink tube
 
-- [ ] Arduino Uno Support Board
-- [ ] Spacer
-- [ ] Double-side Tape for vibration reduction
-- [ ] Heat shrink tube
+3D Design and 3D Printing
+- [ ] design + 3d print Arduino Uno Support Board
+- [ ] design + 3d print Spacer
+
+Assemble the electronics board
+- [ ] assemble MPU-6050
+- [ ] assemble Arduino board to main frame
+- [ ] connect wiring and soldering component into the main circuit board
 
 - [ ] (SW) Basic of Arduino
   - [ ] Getting started with Arduino (blink)
   - [ ] Arduino + MPU-6050
   - [ ] Arduino + RC Receiver
   - [ ] Arduino + ESC
-- [ ] PCB drawing 
-- [ ] (Assem) PCB board design & build
 - [ ] (Test) manual flight test
+
+Optional
 - [ ] Prop Jig Build
